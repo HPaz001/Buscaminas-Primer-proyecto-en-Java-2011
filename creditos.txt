@@ -1,0 +1,9 @@
+Buscaminas Primer proyecto en Java (2011)
+
+Proyecto para la asignatura de programacion modular orientada a objetos, en ingeniería informática de gestión y sistemas de información de la escuela universitaria de ingeniería técnica industrial de Bilbao.
+
+Autores:
+Rodero Pascual
+Helen J. Paz
+Egoitz Puerta
+Itsaso Sabino
